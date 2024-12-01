@@ -51,7 +51,7 @@
   </nav>
 
   <div class="container">
-    <h3>Escolha o melhor plano APENAS</h3>
+    <h3>Escolha o melhor plano</h3>
     <p>PLANOS</p>
   </div>
 
